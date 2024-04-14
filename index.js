@@ -1,3 +1,4 @@
 let x = "zain";
-console.log(x);
+let y = "khan";
+console.log(x + " " + y);
 export {};

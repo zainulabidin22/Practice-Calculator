@@ -1,2 +1,3 @@
 let x: string = "zain";
-console.log(x);
+let y: string = "khan"
+console.log(x + " " + y);
